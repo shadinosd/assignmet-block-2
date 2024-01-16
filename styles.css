@@ -72,6 +72,7 @@ height: 52px;
 .input-1{
      margin: 50px;
      color: rgba(19, 19, 24, 0.50);
+    
 
 }
 .section-1{
@@ -80,6 +81,7 @@ height: 52px;
       min-width: 1170px;
       margin: 0 auto;
       margin-left: 330px;
+      
 
       
       
@@ -100,7 +102,8 @@ height: 52px;
      height: 52px; 
      font-size:20px;
      border-radius: 10px;
-     background: #FF5400; ;
+     background: #FF5400; 
+     border: none;
 }
 
 .content-img{
@@ -108,13 +111,13 @@ height: 52px;
 }
 
  
-.section3{
+.section-3{
      margin-top: 100px;
      max-width: 1170px;
      margin: 0 auto;
 }
 
-.contant3{
+.contant-3{
      text-align: center;
 
 }
@@ -168,7 +171,7 @@ padding: 30px;
 }
 
 
-.image3{
+.img-3{
      display: flex;
      gap: 15px;
 }
